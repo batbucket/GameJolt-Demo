@@ -1,3 +1,3 @@
 # GameJolt Credentials
-- Username: eternitylabs
-- Token: Qpuh7S
+- Username: `eternitylabs`
+- Token: `Qpuh7S`
